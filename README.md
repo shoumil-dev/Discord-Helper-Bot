@@ -31,6 +31,3 @@ My IDE of choice was VSCode as I needed the bot to run natively.
 To use the project, you need to enter your token, guildID(serverID) and clientID(botID) in config.json. Then, you need to register the commands to the guild using
 "node deploy-commands.js". Once you do that, all you need to do is run the main file using "node main.js" and the bot should come online. You can check if it is working
 as intended with the "/ping" command.
-
-
-# Discord-Helper-Bot
